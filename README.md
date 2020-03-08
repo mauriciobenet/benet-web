@@ -1,2 +1,5 @@
-# benet-web
-Simple web with NodeJS and handlebars
+## Código fuente del proyecto
+
+```
+npm install
+```
